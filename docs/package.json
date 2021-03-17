@@ -8,7 +8,7 @@
     "build": "vuepress build && mv .vuepress/dist dist"
   },
   "dependencies": {
-    "diff2html": "^2.12.1",
+    "diff2html": "^3.0.0",
     "vuepress": "^1.0.1"
   }
 }
